@@ -48,6 +48,9 @@ already returned to the fan, there was no way for John to image it.
 The disks can be opened in a Mac emulator such as [Mini vMac](https://www.gryphel.com/c/minivmac/).
 You need to boot with a system disk first. Some of these disks have the system installed as well, others don't.
 
+# Building From Source
+See [buildtools/README.md](buildtools/README.md) for instructions for how to build ChipWits 1.2 for the Macintosh 128k.
+
 # Readable FORTH Source
 The `forth/` directory contains semi-recovered source code, re-encoded so that it can be
 read by a modern computer. The code is non-normative and will not compile.
